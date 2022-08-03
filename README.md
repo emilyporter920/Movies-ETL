@@ -25,3 +25,10 @@ A table showing the ratings data was created, shown below:
      - Two .csv files and one JSON file were cleaned, extracted, transformed, joined, and then loaded into a database.
      - It is recommended that Amazing Prime utilizes this database to make further decisions regarding investments in movies. 
      - This data helps visualize what low-budget films will become popular, which is what Amazing Prime is looking for.
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
